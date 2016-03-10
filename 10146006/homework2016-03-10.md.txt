@@ -1,3 +1,3 @@
-Ruby ªºµo©ú¤H¬O½Ö? ªQ¥»¦æ¥°
-Ruby ¬O¤°»ò®É­Ôµo©úªº? 1993¦~2¤ë24¤é
-Ruby ¥i¥H°µ¨Ç¤°»ò¨Æ?¼gºô­¶
+ï»¿Ruby çš„ç™¼æ˜Žäººæ˜¯èª°? æ¾æœ¬è¡Œå¼˜
+Ruby æ˜¯ä»€éº¼æ™‚å€™ç™¼æ˜Žçš„? 1993å¹´2æœˆ24æ—¥
+Ruby å¯ä»¥åšäº›ä»€éº¼äº‹?å¯«ç¶²é 
