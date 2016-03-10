@@ -1,29 +1,19 @@
-I AM YOUR FATHER.
-I AM YOUR FATHER.
-I AM YOUR FATHER.
-I AM YOUR FATHER.
-I AM YOUR FATHER.
-I AM YOUR FATHER.
-I AM YOUR FATHER.
-I AM YOUR FATHER.
-I AM YOUR FATHER.
-I AM YOUR FATHER.
-I AM YOUR FATHER.
-I AM YOUR FATHER.
-I AM YOUR FATHER.
-I AM YOUR FATHER.
-I AM YOUR FATHER.
-I AM YOUR FATHER.
-I AM YOUR FATHER.
-I AM YOUR FATHER.
-I AM YOUR FATHER.
-I AM YOUR FATHER.
-I AM YOUR FATHER.
-I AM YOUR FATHER.
-I AM YOUR FATHER.
-I AM YOUR FATHER.
-I AM YOUR FATHER.
-I AM YOUR FATHER.
-I AM YOUR FATHER.
-I AM YOUR FATHER.
+#那天放學，我在回家的路上遇到他。
 
+#許久沒見面，他變的好多
+#但是唯一沒變的是他的口頭禪：今天我生日ㄛ!
+
+#想起以前，我還問他說為什麼要說你今天生日
+#他先沉默不語，然後仰頭望著天，然後用一種堅定的口氣告訴我
+#今天我生日ㄛ!
+
+#頓時，我恍然大悟
+
+#原來，他把生日看的那麼重要
+#是多麼珍惜他的每一天生日
+#每一天說的這句話，就是要時時刻刻提醒自己
+#提醒自己多麼得珍貴
+
+#他，是我這生中最尊敬的人
+#在我的書桌前，我寫下他的一行話，來時時刻刻勉勵自己
+#今天我生日ㄛ!
