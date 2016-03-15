@@ -1,0 +1,13 @@
+uby 的發明人是誰?  松本行弘
+Ruby 是什麼時候發明的? 1995年12月
+Ruby 可以做些什麼事? Ruby 具有例外處理（exception handling）的能力。就如 Java 或 Python 一樣，可以讓使用者輕鬆的處理錯誤狀況。
+
+Ruby 對於所有的物件具有一個真正的標記-清除（mark and sweep）式的垃圾收集器（garbage collector）。使用者不必去維護擴充函式庫中的 參考計數器(reference counts)。如 Matz 說的：”這樣有益健康”。
+
+在 Ruby 中撰寫 C 的擴充程式比在 Perl 或 Python 中方便，擁有許多方便的 API 可以讓 C 呼叫 Ruby。這樣可以將 Ruby 當成腳本語言，嵌入到其他軟體之中。它也具有 SWIG 的呼叫界面。
+
+如果作業系統支援，Ruby 可以動態的載入擴充函式庫。
+
+Ruby 具有與作業系統無關的多線程（threading）能力。可以在所有可以執行 Ruby 的平台上都能夠達到多線程的目標，而不必管作業系統是否支援，就算是 MS-DOS 也行。
+
+Ruby 具有高度的移植性：它大部份是在 GNU/Linux 上發展出來，但是可以執行於多種的作業系統如： UNIX、Mac OS X、Windows、DOS、BeOS、OS/2 等。資料來源:https://www.ruby-lang.org/zh_tw/about/
