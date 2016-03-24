@@ -36,10 +36,10 @@
 | [10246008](https://github.com/a36love3)  |   X    |   X    |        |        |        |        |        |        |        |        |        |        |
 | [10246011](https://github.com/lin19960729)  |   O    |   O    |        |        |        |        |        |        |        |        |        |        |
 | [10246012](https://github.com/stefsun1126)  |   O    |   O    |        |        |        |        |        |        |        |        |        |        |
-| [10246013](https://github.com/10246013)  |   O    |   O    |        |        |        |        |        |        |        |        |        |        |
+| [10246013](https://github.com/10246013)  |   O    |   O    |    O   |        |        |        |        |        |        |        |        |        |
 | [10246017](https://github.com/a9261020)  |   O    |   O    |        |        |        |        |        |        |        |        |        |        |
 | [10246018](https://github.com/shuzhenWu)  |   O    |   O    |        |        |        |        |        |        |        |        |        |        |
-| [10246020](https://github.com/z789000d)  |   O    |   △    |        |        |        |        |        |        |        |        |        |        |
+| [10246020](https://github.com/z789000d)  |   O    |   △    |    O   |        |        |        |        |        |        |        |        |        |
 | [10246021](https://github.com/yulilin)  |   O    |   O    |        |        |        |        |        |        |        |        |        |        |
 | [10246022](https://github.com/w6812763cm)  |   O    |   O    |        |        |        |        |        |        |        |        |        |        |
 | [10246023](https://github.com/tsy9005)  |   O    |   X    |        |        |        |        |        |        |        |        |        |        |
