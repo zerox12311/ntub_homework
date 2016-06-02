@@ -63,7 +63,7 @@ puts rental.summary
 #### 第 1 題
 
 ```ruby
-result = []
+result = 0
 [*1..100].each do |i|
   result += i
 end
